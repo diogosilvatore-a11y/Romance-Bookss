@@ -8,7 +8,7 @@ const livros = [
         categoria: "Romance",
         avaliacao: "★★★★★",
 
-        capa: "imagens/1.jpg",
+        capa: "1.jpg",
 
         descricao: "Uma comédia romântica envolvendo física, rivalidade acadêmica e sentimentos inesperados."
     },
@@ -19,7 +19,7 @@ const livros = [
         categoria: "Romance",
         avaliacao: "★★★★★",
 
-        capa: "imagens/2.jpg",
+        capa: "2.jpg",
 
         descricao: "Dois escritores fazem um desafio de trocar de gênero durante as férias."
     },
@@ -30,7 +30,7 @@ const livros = [
         categoria: "Romance",
         avaliacao: "★★★★★",
 
-        capa: "imagens/3.jpg",
+        capa: "3.jpg",
 
         descricao: "Dois estranhos dividem o mesmo apartamento e começam a se comunicar por post-its."
     },
@@ -41,7 +41,7 @@ const livros = [
         categoria: "Romance",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/4.jpg",
+        capa: "4.jpg",
 
         descricao: "Um namoro de mentira para um casamento na Espanha começa a ficar complicado."
     },
@@ -52,7 +52,7 @@ const livros = [
         categoria: "Romance",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/5.jpg",
+        capa: "5.jpg",
 
         descricao: "Uma história sobre recomeços, amizade e romance em Nova York."
     },
@@ -63,7 +63,7 @@ const livros = [
         categoria: "Romance",
         avaliacao: "★★★★★",
 
-        capa: "imagens/6.jpg",
+        capa: "6.jpg",
 
         descricao: "Uma agente literária e um editor rival se encontram repetidamente em uma pequena cidade."
     },
@@ -77,7 +77,7 @@ const livros = [
         categoria: "Romance Jovem",
         avaliacao: "★★★★★",
 
-        capa: "imagens/7.jpg",
+        capa: "7.jpg",
 
         descricao: "A continuação de É Assim Que Acaba, acompanhando Atlas e uma nova oportunidade de recomeço."
     },
@@ -88,7 +88,7 @@ const livros = [
         categoria: "Romance Jovem",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/8.jpg",
+        capa: "8.jpg",
 
         descricao: "Um casal promete se encontrar na mesma data todos os anos."
     },
@@ -99,7 +99,7 @@ const livros = [
         categoria: "Romance Jovem",
         avaliacao: "★★★★★",
 
-        capa: "imagens/9.jpg",
+        capa: "9.jpg",
 
         descricao: "Uma relação marcada por atração e regras sobre passado e futuro."
     },
@@ -110,7 +110,7 @@ const livros = [
         categoria: "Romance Jovem",
         avaliacao: "★★★★★",
 
-        capa: "imagens/10.jpg",
+        capa: "10.jpg",
 
         descricao: "Uma história emocional sobre amor de infância e a passagem do tempo."
     },
@@ -121,7 +121,7 @@ const livros = [
         categoria: "Romance Jovem",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/11.jpg",
+        capa: "11.jpg",
 
         descricao: "A relação complexa entre dois jovens ao longo dos anos."
     },
@@ -135,7 +135,7 @@ const livros = [
         categoria: "Romance Esportivo",
         avaliacao: "★★★★★",
 
-        capa: "imagens/12.jpg",
+        capa: "12.jpg",
 
         descricao: "John Logan tenta corrigir seus erros enquanto se aproxima de uma caloura."
     },
@@ -147,7 +147,7 @@ const livros = [
         categoria: "Romance Esportivo",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/13.jpg",
+        capa: "13.jpg",
 
         descricao: "Hóquei universitário, química e provocações."
     },
@@ -158,7 +158,7 @@ const livros = [
         categoria: "Romance Esportivo",
         avaliacao: "★★★★★",
 
-        capa: "imagens/14.jpg",
+        capa: "14.jpg",
 
         descricao: "Uma patinadora artística e o capitão do time de hóquei precisam dividir o mesmo espaço."
     },
@@ -169,7 +169,7 @@ const livros = [
         categoria: "Romance Esportivo",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/15.jpg",
+        capa: "15.jpg",
 
         descricao: "Dois conselheiros de acampamento tentam resistir à atração entre eles."
     },
@@ -180,7 +180,7 @@ const livros = [
         categoria: "Romance Esportivo",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/16.jpg",
+        capa: "16.jpg",
 
         descricao: "Um romance de cidade pequena envolvendo amizade, rodeios e sentimentos."
     },
@@ -194,7 +194,7 @@ const livros = [
         categoria: "Fantasia Romântica",
         avaliacao: "★★★★★",
 
-        capa: "imagens/17.jpg",
+        capa: "17.jpg",
 
         descricao: "Feyre entra em um mundo de feéricos, magia, perigos e romance."
     },
@@ -205,7 +205,7 @@ const livros = [
         categoria: "Fantasia Romântica",
         avaliacao: "★★★★★",
 
-        capa: "imagens/18.jpg",
+        capa: "18.jpg",
 
         descricao: "A continuação da jornada de Feyre com novos desafios e personagens."
     },
@@ -216,7 +216,7 @@ const livros = [
         categoria: "Fantasia Romântica",
         avaliacao: "★★★★★",
 
-        capa: "imagens/19.jpg",
+        capa: "19.jpg",
 
         descricao: "Dragões, treinamento militar, perigo e uma relação cheia de tensão."
     },
@@ -227,7 +227,7 @@ const livros = [
         categoria: "Fantasia Romântica",
         avaliacao: "★★★★☆",
 
-        capa: "imagens/20.jpg",
+        capa: "20.jpg",
 
         descricao: "Uma jovem escolhida pelos deuses começa a questionar tudo ao conhecer seu guarda."
     },
@@ -238,7 +238,7 @@ const livros = [
         categoria: "Fantasia Romântica",
         avaliacao: "★★★★★",
 
-        capa: "imagens/21.jpg",
+        capa: "21.jpg",
 
         descricao: "Intrigas políticas, mundo feérico e uma relação marcada por rivalidade."
     },
@@ -252,7 +252,7 @@ const livros = [
         categoria: "Romance Histórico",
         avaliacao: "★★★★★",
 
-        capa: "imagens/22.jpg",
+        capa: "22.jpg",
 
         descricao: "O romance que deu origem à série Bridgerton."
     },
@@ -263,7 +263,7 @@ const livros = [
         categoria: "Romance Histórico",
         avaliacao: "★★★★★",
 
-        capa: "imagens/23.jpg",
+        capa: "23.jpg",
 
         descricao: "A história de uma lendária estrela de Hollywood e dos amores que marcaram sua vida."
     },
@@ -274,7 +274,7 @@ const livros = [
         categoria: "Romance Histórico",
         avaliacao: "★★★★★",
 
-        capa: "imagens/24.jpg",
+        capa: "24.jpg",
 
         descricao: "Um romance histórico ambientado durante a Corrida do Ouro na Califórnia."
     },
@@ -285,7 +285,7 @@ const livros = [
         categoria: "Romance Histórico",
         avaliacao: "★★★★★",
 
-        capa: "imagens/25.jpg",
+        capa: "25.jpg",
 
         descricao: "Uma releitura da mitologia grega acompanhando a jornada da deusa Circe."
     }
