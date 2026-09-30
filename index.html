@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>RomanceBooks</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+
+        <div class="logo">
+            RomanceBooks
+        </div>
+
+        <nav>
+            <a href="#inicio">Início</a>
+            <a href="#categorias">Categorias</a>
+            <a href="#livros">Livros</a>
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <section class="hero" id="inicio">
+
+            <div class="hero-content">
+
+                <p class="tag">
+                    SEU CATÁLOGO DE ROMANCES
+                </p>
+
+                <h1>
+                    Encontre seu próximo
+                    <span>romance favorito.</span>
+                </h1>
+
+                <p>
+                    Descubra livros de romance separados por
+                    categorias e estilos.
+                </p>
+
+                <a href="#livros" class="hero-button">
+                    Explorar livros
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <section class="catalogo" id="categorias">
+
+            <div class="section-title">
+
+                <p class="tag">
+                    CATÁLOGO
+                </p>
+
+                <h2>
+                    Explore por categoria
+                </h2>
+
+            </div>
+
+
+            <div class="filtros">
+
+                <button class="filtro ativo" data-categoria="Todos">
+                    Todos
+                </button>
+
+                <button class="filtro" data-categoria="Romance">
+                    Romance
+                </button>
+
+                <button class="filtro" data-categoria="Romance Jovem">
+                    Romance Jovem
+                </button>
+
+                <button class="filtro" data-categoria="Romance Esportivo">
+                    Romance Esportivo
+                </button>
+
+                <button class="filtro" data-categoria="Fantasia Romântica">
+                    Fantasia Romântica
+                </button>
+
+                <button class="filtro" data-categoria="Romance Histórico">
+                    Romance Histórico
+                </button>
+
+            </div>
+
+
+            <div class="pesquisa-box">
+
+                <input
+                    type="text"
+                    id="pesquisa"
+                    placeholder="Pesquisar livro ou autor..."
+                >
+
+            </div>
+
+
+            <p class="contador" id="contador"></p>
+
+
+            <div class="livros" id="livros"></div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>
+            © 2026 RomanceBooks — Catálogo de livros de romance
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
